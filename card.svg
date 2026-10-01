@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="470" viewBox="0 0 490 470" role="img" aria-label="whoami: Vittoria Bassi, web and mobile development, data and communication">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; white-space: pre; }
+.ln { opacity: 0; animation: in .45s ease-out forwards; }
+.p { fill: #f07a9a; }
+.c { fill: #f6e9ef; }
+.big { font: 800 22px "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; fill: #f6e9ef; letter-spacing: -.4px; }
+.d { fill: #b9a6c6; }
+.k { fill: #f0a77e; }
+.v { fill: #e9dfee; }
+.t { font-size: 12px; fill: #8f7d9c; }
+.cur { fill: #f07a9a; animation: blink 1s steps(1) infinite; }
+@keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ln { animation: none; opacity: 1; } .cur { animation: none; } }
+</style>
+<rect width="490" height="470" rx="14" fill="#17111f"/>
+<rect x=".5" y=".5" width="489" height="469" rx="13.5" fill="none" stroke="#3a2a48"/>
+<circle cx="22" cy="22" r="5.5" fill="#f07a7a"/><circle cx="40" cy="22" r="5.5" fill="#f0b07e"/><circle cx="58" cy="22" r="5.5" fill="#9fc79a"/>
+<text x="245.0" y="26" text-anchor="middle" class="t">vittoria@valtellina: ~</text>
+<line x1="0" y1="44" x2="490" y2="44" stroke="#3a2a48"/>
+<text x="24" y="76" class="ln" style="animation-delay:1.00s"><tspan class="p">vittoria@valtellina ~ $</tspan> <tspan class="c">whoami</tspan></text>
+<text x="24" y="110" class="ln big" style="animation-delay:1.18s">Vittoria Bassi</text>
+<text x="24" y="136" class="ln d" style="animation-delay:1.36s">web &amp; mobile development, data, communication</text>
+<text x="24" y="170" class="ln" style="animation-delay:1.54s"><tspan class="k">studying</tspan><tspan x="116" class="v">BSc Computer Science for Digital</tspan></text>
+<text x="24" y="192" class="ln" style="animation-delay:1.72s"><tspan class="k"></tspan><tspan x="116" class="v">Communication · Social &amp; Mobile Computing</tspan></text>
+<text x="24" y="214" class="ln" style="animation-delay:1.90s"><tspan class="k"></tspan><tspan x="116" class="v">University of Milan · graduating Jan 2027</tspan></text>
+<text x="24" y="236" class="ln" style="animation-delay:2.08s"><tspan class="k">thesis</tspan><tspan x="116" class="v">internship at Koinè, 2025 – Jul 2026</tspan></text>
+<text x="24" y="258" class="ln" style="animation-delay:2.26s"><tspan class="k"></tspan><tspan x="116" class="v">→ built PiccoliPassi, for preschools</tspan></text>
+<text x="24" y="280" class="ln" style="animation-delay:2.44s"><tspan class="k">building</tspan><tspan x="116" class="v">Back before dark · Fotogram</tspan></text>
+<text x="24" y="302" class="ln" style="animation-delay:2.62s"><tspan class="k">stack</tspan><tspan x="116" class="v">JavaScript · TypeScript · React</tspan></text>
+<text x="24" y="324" class="ln" style="animation-delay:2.80s"><tspan class="k"></tspan><tspan x="116" class="v">Kotlin · Go · SQL</tspan></text>
+<text x="24" y="346" class="ln" style="animation-delay:2.98s"><tspan class="k">also</tspan><tspan x="116" class="v">UX/UI · network analysis · SEO</tspan></text>
+<text x="24" y="368" class="ln" style="animation-delay:3.16s"><tspan class="k">speaks</tspan><tspan x="116" class="v">Italian · English B2 · German, French A2</tspan></text>
+<text x="24" y="390" class="ln" style="animation-delay:3.34s"><tspan class="k">offline</tspan><tspan x="116" class="v">painting · DJing · running · climbing</tspan></text>
+<text x="24" y="412" class="ln" style="animation-delay:3.52s"><tspan class="k">site</tspan><tspan x="116" class="v">vikybassi.github.io</tspan></text>
+<text x="24" y="446" class="ln" style="animation-delay:3.70s"><tspan class="p">vittoria@valtellina ~ $</tspan> <tspan class="cur">▌</tspan></text>
+</svg>
